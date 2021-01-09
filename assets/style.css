@@ -1,0 +1,12 @@
+.color {
+	background: #e0dfde;
+}
+
+.btn-purple {
+	background-color: #5900ab !important;
+	color: white !important;
+}
+
+.border-purple {
+	border: 3px solid #5900ab !important;
+}
